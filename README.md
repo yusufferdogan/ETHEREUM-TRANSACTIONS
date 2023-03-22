@@ -175,11 +175,11 @@ Enter your message and press enter to convert the string to hex.
 
 Copy the encoded hex number and paste it to the hex data field in the metamask. But don’t forget to add `0x` to the beginning. It indicates it is in hex format.
 
-![https://images.mirror-media.xyz/publication-images/I3vhkP5UOi8RZw8w335qe.png?height=581&width=357](https://images.mirror-media.xyz/publication-images/I3vhkP5UOi8RZw8w335qe.png?height=581&width=357)
+![image](https://user-images.githubusercontent.com/45846424/227037681-018b2f68-5f1f-4414-a17e-636a159b4fdf.png)
 
 After that, you submit the transaction you can decode this message in the etherscan. Just view the input as UTF-8 and now the message will be decoded.
 
-![https://images.mirror-media.xyz/publication-images/T3au-C6Jap4d-LOVBlaQn.png?height=278&width=1345](https://images.mirror-media.xyz/publication-images/T3au-C6Jap4d-LOVBlaQn.png?height=278&width=1345)
+![image](https://user-images.githubusercontent.com/45846424/227037745-f200b719-08de-4dc7-a9c0-dcf12785f5f5.png)
 
 ### Transmitting a Data Payload to a Contract
 
@@ -247,7 +247,7 @@ await owner.sendTransaction({data: bytecode})`
 
 The output will be like this.
 
-![https://images.mirror-media.xyz/publication-images/d_AxVvHMOE0or8jvVHt-r.png?height=620&width=1415](https://images.mirror-media.xyz/publication-images/d_AxVvHMOE0or8jvVHt-r.png?height=620&width=1415)
+![image](https://user-images.githubusercontent.com/45846424/227037830-55088caf-fda4-4cd4-ba29-199f81d3482b.png)
 
 Also created contracts address is shown in creates.
 
